@@ -40,6 +40,7 @@ make sure all of the dependencies are installed if you've encountered any errors
 </div>
 
 ## Running & Usage
+Unzip the test and train files from train_test.zip
 
 ```
 python net.py train_x train_y test_x test_y
